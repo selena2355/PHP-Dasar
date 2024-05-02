@@ -1,7 +1,7 @@
 <?php
 
 $x = 10;
-while ($x < 5){
+while ($x > 5){
     echo "Nomor = $x <br>";
     $x--;
 }
