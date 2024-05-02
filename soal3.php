@@ -1,14 +1,14 @@
 <?php
     // Array data siswa
     $siswa = [
-        ["nama" => "Aldi", "poin" => 80],
+        ["nama" => "Adi", "poin" => 75],
+        ["nama" => "Joni", "poin" => 80],
+        ["nama" => "Jihan", "poin" => 65],
+        ["nama" => "Aya", "poin" => 70],
+        ["nama" => "Ita", "poin" => 85],
         ["nama" => "Budi", "poin" => 90],
-        ["nama" => "Charlie", "poin" => 100],
-        ["nama" => "Deni", "poin" => 70],
-        ["nama" => "Eka", "poin" => 95],
-        ["nama" => "Fani", "poin" => 85],
-        ["nama" => "Gita", "poin" => 100],
-        ["nama" => "Hari", "poin" => 60],
+        ["nama" => "Tini", "poin" => 95],
+        ["nama" => "Sari", "poin" => 65],
     ];
 
     // a) Tampilkan poin siswa dengan nomor urut 5
