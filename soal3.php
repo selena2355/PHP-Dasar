@@ -28,5 +28,7 @@
         if ($value["poin"] == 100) {
             echo "- " . $value["nama"] . "<br>";
         }
+        
     }
+    echo "Tidak Ada Siswa dengan nilai 100";
 ?>
